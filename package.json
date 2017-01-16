@@ -1,0 +1,25 @@
+{
+  "name": "end_point",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "description": "Friday afternoon React recap session. (Cohort 7)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CraigMorton/react-tictactoe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CraigMorton/react-tictactoe/issues"
+  },
+  "homepage": "https://github.com/CraigMorton/react-tictactoe#readme"
+}
